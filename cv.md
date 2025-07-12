@@ -17,3 +17,24 @@ I’m eager to join a professional team where I can continue to grow, contribute
 * Build Tools: Webpack, Babel
 * Version Control: Git, GitHub, GitLab
 * Design Tools: Figma (for translating UI mockups)
+
+## Code exaples
+
+[Exaples](https://github.com/Spit123/rsschool-cv/)
+
+## Experience
+
+*Personal & Study Projects*
+
+1. Landing page with HTML, CSS, JavaScript
+2. SPA with JavaScript
+
+## Education
+    ### Higher
+    2015	учреждения образования «Барановичский государственный университет»
+            Инженерный, Информационные системы и технологии
+    ### Professional development, courses
+        2020	IT-Academy
+                IT-Academy, Developing Web Applications with JavaScript
+        2019	IT-Academy
+                IT-Academy, Website development using HTML, CSS, JavaScript
