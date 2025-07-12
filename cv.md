@@ -31,10 +31,17 @@ I’m eager to join a professional team where I can continue to grow, contribute
 
 ## Education
 ### Higher
-        2015	учреждения образования «Барановичский государственный университет»
+    2015	учреждения образования «Барановичский государственный университет»
                 Инженерный, Информационные системы и технологии
 ### Professional development, courses
-        2020	IT-Academy
+    2020	IT-Academy
                 IT-Academy, Developing Web Applications with JavaScript
-        2019	IT-Academy
+    2019	IT-Academy
                 IT-Academy, Website development using HTML, CSS, JavaScript
+
+## English
+* Upper-Intermediate (B2).
+
+* Actively communicate in English on GitHub issues and during pair programming sessions on Discord with developers worldwide.
+
+* Confident in discussing UI requirements and reading technical specifications.
